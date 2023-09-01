@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ilyas AKIOUI</h1>
-<h3 align="center">A passionate frontend developer from French</h3>
+<h3 align="center">
+"Salut, je m'appelle Ilyas Akioui, l'as des MLOps en herbe, à seulement 20 ans ! 👨‍💻 J'ai un amour démesuré pour la machine learning et l'intelligence artificielle, que je chéris comme mes propres bébés AI 🤖. Quand je ne suis pas en train de m'immerger dans des montagnes de code Python ou C, je suis probablement en train de discuter avec mes amis AI sur la dernière tendance en DevOps.
 
+Mon credo ? Faire du monde un endroit meilleur, un algorithme à la fois ! 🌍💡
+
+Je suis comme un café bien fort, je vous donne un coup de pouce pour affronter les challenges technologiques du quotidien tout en gardant le sourire. Alors, si vous avez besoin d'un expert MLOps avec une dose d'humour, vous savez où me trouver !
+
+P.S. : Ma capacité à comprendre le langage binaire est mon super-pouvoir secret, mais chut, ne le dites à personne 😉🐍💻"</h3>
+<img align="right" alt="Error" width= "400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyas-00&label=Profile%20views&color=0e75b6&style=flat" alt="ilyas-00" /> </p>
 
