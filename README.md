@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyas AKIOUI</h1>
 <h3 align="center">
-Hey there, I'm Ilyas Akioui, the MLOps prodigy at the ripe age of 20! 👨‍💻 I've got an unbridled passion for machine learning and artificial intelligence, treating them like my very own AI offspring 🤖. When I'm not diving headfirst into mountains of Python or C code, you'll probably find me chatting it up with my AI buddies about the latest DevOps trends.
-
-My motto? Making the world a better place, one algorithm at a time! 🌍💡
-
-I'm like a strong cup of coffee – I give you that boost you need to tackle everyday tech challenges, all while keeping a smile on my face. So, if you're in need of an MLOps expert with a dash of humor, you know where to find me!
-
-P.S. My ability to understand binary code is my secret superpower, but shh, don't tell anyone 😉🐍💻</h3>
+I am Ilyas Akioui, 21 years old, currently pursuing a computer science degree with a specialization in Artificial Intelligence (AI). I am passionate about Machine Learning and Python, and I aspire to work as an MLOps professional to combine my love for programming and AI with an operational approach to effectively deploy machine learning models in real-world environments.
 
 <img align="right" alt="Error" width= "400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
 
@@ -14,15 +8,11 @@ P.S. My ability to understand binary code is my secret superpower, but shh, don'
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **LEA**
-
-- 🌱 I’m currently learning **Bootstrap, Typescript**
-
-- 💬 Ask me about **react**
+- 🌱 I’m currently learning **pandas, Go**
 
 - 📫 How to reach me **akioui.ilyas@mail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
