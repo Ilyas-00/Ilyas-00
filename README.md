@@ -1,3 +1,6 @@
+<img src="https://github.com/Ilyas-00/Ilyas-00/assets/129302570/1a77af22-ca3e-4fd7-8813-e8669b31c6a3" alt="Introduction Banner.." style="text-align: center; margin-bottom: 100px;" />
+
+
 <h3 align="center">I am Ilyas Akioui, 21 years old, currently pursuing a computer science degree with a specialization in Artificial Intelligence (AI). I am passionate about Machine Learning and Python, and I aspire to work as an MLOps professional to combine my love for programming and AI with an operational approach to effectively deploy machine learning models in real-world environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyas-00&label=Profile%20views&color=0e75b6&style=flat" alt="ilyas-00" /> </p>
