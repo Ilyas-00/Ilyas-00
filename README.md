@@ -9,6 +9,7 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <h3 align="center">Languages and Tools:</h3>
+<br></br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,git,kubernetes,docker,c,vim,aws,azure,github,ocaml,perl,php,powershell,py,js,jquery,react,ts,tailwind,nodejs,rust,sqlite,mysql,dart" />
