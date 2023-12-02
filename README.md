@@ -8,7 +8,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">{ Languages and Tools }</h3>
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </p>
 <br></br> 
-<h3 align="center"">Connect with me:</h3>
+<h3 align="center"">{ Connect with me }</h3>
 <p align="center">
 <a href="https://codepen.io/il_yasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="il_yasss" height="30" width="40" /></a>
 <a href="https://dev.to/ilyas00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ilyas00" height="30" width="40" /></a>
