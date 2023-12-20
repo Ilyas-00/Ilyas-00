@@ -26,7 +26,6 @@
 </p>
 <br></br> 
 
-
 <p align="center">
   <a href="https://github.com/Ilyas-00">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyas-00&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="hhhhhhhhh"/>
