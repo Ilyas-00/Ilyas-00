@@ -16,7 +16,7 @@
   </a>
 </p>
 <br></br> 
-<h3 align="center"">{ Connect with me }</h3>
+<!-- <h3 align="center"">{ Connect with me }</h3>
 <p align="center">
 <a href="https://codepen.io/il_yasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="il_yasss" height="30" width="40" /></a>
 <a href="https://dev.to/ilyas00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ilyas00" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 <a href="https://instagram.com/ilyasss_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilyasss_91" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elmarocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmarocchi" height="30" width="40" /></a>
 <a href="https://discord.gg/elmarocchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elmarocchi" height="30" width="40" /></a>
-</p>
+</p> -->
 <br></br> 
 <!--
 <p align="center">
